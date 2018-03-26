@@ -1,2 +1,1 @@
-# indecision-app
 # expensify-app
